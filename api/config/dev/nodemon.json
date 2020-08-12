@@ -1,0 +1,8 @@
+{
+    "type": "node",
+    "request": "attach",
+    "name": "Attach",
+    "port": 9229,
+    "delay": "1000",
+    "ignore": "./ui"
+} 
