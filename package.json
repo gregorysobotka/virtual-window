@@ -3,11 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start:dev:api": "nodemon --config ./api/config/dev/nodemon.json ./api/bin/www",
-    "start:dev:ui": ""
   },
   "dependencies": {},
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+  "devDependencies": {}
 }
